@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hello there, I`m Jacek Kotra 👋</h1>
+<h3 align="center";">I`m student of computer science💻</br>
 
 <!--
 **jacekk024/jacekk024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
