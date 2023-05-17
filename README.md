@@ -8,24 +8,32 @@
 ![jacekk024's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacekk024&theme=vue&show_icons=true&hide_border=false&layout=compact)
 </p>
 
+
+## I'm a computer science student, few facts about me:
+
+- 🌱 I’m currently learning SQL
+- 🥅 2022 Goals: Learn more about ASP.NET Core
+- ⚡ Passionate of embedded systems
+
 # Contact me
 
 <div>
   <a href="https://www.linkedin.com/in/jacek-kotra-103584249/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="5%" title='LinkedIn'/></a>
 </div>
 
+## Technologies
 
-<!--
-**jacekk024/jacekk024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <a href="https://pl.legacy.reactjs.org" target="_blank"><img src ="./images/react.svg" alt="React logo" width="5%" title='React'/></a>
+    <a href="https://www.javascript.com" target="_blank"><img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/></a>
+    <a href="https://learn.microsoft.com/pl-pl/dotnet/csharp/" target="_blank"><img src ="./images/cs.svg" alt="Csharp logo" width="5%" title='Csharp'/></a>
+    <a href="https://dotnet.microsoft.com/en-us/download" target="_blank"><img src ="./images/NET_Core_Logo.svg" alt=".NET Core logo" width="5%" title='.NET Core'/></a>
+</div>
 
-Here are some ideas to get you started:
+## Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/></a>
+    <a href="https://www.linux.org/" target="_blank"><img src ="./images/linux.svg" alt="Linux logo" width="5%" title='Linux'/></a>
+</div>
