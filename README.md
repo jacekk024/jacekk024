@@ -37,6 +37,6 @@
     <a href="https://git-scm.com/" target="_blank"><img src ="./images/git.svg" alt="Git logo" width="7%" title='Git'/></a>
     <a href="https://www.linux.org/" target="_blank"><img src ="./images/linux.svg" alt="Linux logo" width="7%" title='Linux'/></a>
     <a href="https://visualstudio.microsoft.com/pl/vs/" target="_blank"><img src ="./images/VS.svg" alt="VS logo" width="7%" title='VS'/></a>
-    <a href="https://github.com" target="_blank"><img src ="./images/github.svg" alt="Github logo" width="7%" title='Github'/></a>
+    <a href="https://github.com" target="_blank"><img src ="./images/GitHub.png" alt="Github logo" width="7%" title='Github'/></a>
 
 </div>
