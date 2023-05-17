@@ -1,6 +1,4 @@
 <h1 align="center">Hello there, I`m Jacek Kotra 👋</h1>
-<h3 align="center">First let me show my stats💻</br> 
-
 
 <p align="center">
 
