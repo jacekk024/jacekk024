@@ -10,7 +10,7 @@
 ## I'm a computer science student💻, few facts about me:
 
 - 🌱 I’m currently learning SQL
-- 🥅 2022 Goals: Learn more about ASP.NET Core
+- 🥅 Goals: Learn more about ASP.NET Core
 - ⚡ Passionate of embedded systems
 
 # Contact me
