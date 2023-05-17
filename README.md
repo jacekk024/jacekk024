@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I`m Jacek Kotra 👋</h1>
-<h3 align="center">I`m student of computer science💻</br> 
+<h3 align="center">First let me show my stats💻</br> 
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 
-## I'm a computer science student, few facts about me:
+## I'm a computer science student💻, few facts about me:
 
 - 🌱 I’m currently learning SQL
 - 🥅 2022 Goals: Learn more about ASP.NET Core
