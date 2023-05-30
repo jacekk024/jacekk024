@@ -27,6 +27,7 @@
     <a href="https://www.javascript.com" target="_blank"><img src ="./images/javascript.svg" alt="JavaScript logo" width="7%" title='JavaScript'/></a>
     <a href="https://learn.microsoft.com/pl-pl/dotnet/csharp/" target="_blank"><img src ="./images/cs.svg" alt="Csharp logo" width="7%" title='Csharp'/></a>
     <a href="https://dotnet.microsoft.com/en-us/download" target="_blank"><img src ="./images/NET_Core_Logo.svg" alt=".NET Core logo" width="7%" title='.NET Core'/></a>
+    <a href="https://www.mysql.com" target="_blank"><img src ="./images/mysql.svg" alt="MySQL logo" width="7%" title='MySQL'/></a>
 </div>
 
 ## Tools
