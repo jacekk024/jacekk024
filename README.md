@@ -7,20 +7,22 @@
 </p>
 
 
-## I'm a computer science student💻, few facts about me:
+## 🙋‍♂️I'm a computer science student💻, few facts about me:
 
 - 🌱 I’m currently learning SQL
 - 🥅 Goals: Learn more about ASP.NET Core
 - ⚡ Passionate of embedded systems
 
-# Contact me
+# 📱Contact me
 
 <div>
   <a href="https://www.linkedin.com/in/jacek-kotra-103584249/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="5%" title='LinkedIn'/></a>
   <a href="https://www.codewars.com/users/jacekk024" target="_blank" rel="noopener noreferrer"><img src ="./images/CodeWars.svg" alt="CodeWars" width="5%" title='CodeWars'/></a>
 </div>
 
-## Technologies
+
+## 🛠Tech Stack
+### 🖥️Technologies
 
 <div>
     <a href="https://pl.legacy.reactjs.org" target="_blank"><img src ="./images/react.svg" alt="React logo" width="7%" title='React'/></a>
@@ -30,7 +32,8 @@
     <a href="https://www.mysql.com" target="_blank"><img src ="./images/mysql.svg" alt="MySQL logo" width="7%" title='MySQL'/></a>
 </div>
 
-## Tools
+
+### 📈Tools
 
 <div>
     <a href="https://code.visualstudio.com/" target="_blank"><img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="7%" title='Visual Studio Code'/></a>
