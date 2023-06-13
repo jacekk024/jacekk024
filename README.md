@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I`m Jacek Kotra 👋</h1>
 
 
-<p align="center"><img src ="./images/programmer.gif" alt="Programmer" width="7%" title='Programmer'/></p>
+<p align="center" width="100" heigth="100"><img src ="./images/programmer.gif" alt="Programmer" width="7%" title='Programmer'/></p>
 
 
 <p align="center">
