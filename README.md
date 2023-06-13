@@ -1,7 +1,8 @@
 <h1 align="center">Hello there, I`m Jacek Kotra 👋</h1>
 
 
-<p align="center" width="100" heigth="100"><img src ="./images/programmer.gif" alt="Programmer" width="7%" title='Programmer'/></p>
+![programmer](https://github.com/jacekk024/jacekk024/assets/45696277/69a2da3a-c581-439d-8845-0113f563856e)
+
 
 
 <p align="center">
