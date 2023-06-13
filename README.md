@@ -1,8 +1,8 @@
 <h1 align="center">Hello there, I`m Jacek Kotra 👋</h1>
 
-<div>
-  <a target="_blank"><img src ="./images/programmer.gif" alt="Programmer" width="7%" title='Programmer'/></a>
-</div>
+
+<p align="center"><img src ="./images/programmer.gif" alt="Programmer" width="7%" title='Programmer'/></p>
+
 
 <p align="center">
 
