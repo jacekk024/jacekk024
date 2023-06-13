@@ -1,5 +1,9 @@
 <h1 align="center">Hello there, I`m Jacek Kotra 👋</h1>
 
+<div>
+    <a target="_blank"><img src ="./images/programmer.gif" alt="Programmer" width="7%" title='Programmer'/></a>
+</div>
+
 <p align="center">
 
 ![jacekk024's Stats](https://github-readme-stats.vercel.app/api?username=jacekk024&theme=vue&show_icons=true&hide_border=false&count_private=true)
