@@ -7,7 +7,7 @@
 - 🥅 Goals: I want to learn more about Web technologies
 - ⚡ Passionate of embedded systems
 
-# 📱Contact me
+## 📱Contact me
 
 <div>
   <a href="https://www.linkedin.com/in/jacek-kotra-103584249/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="5%" title='LinkedIn'/></a>
@@ -37,9 +37,8 @@
 </div>
 
 ## 📈Stats
-
-<p align="center">
+<div align="center">
 
 ![jacekk024's Stats](https://github-readme-stats.vercel.app/api?username=jacekk024&theme=vue&show_icons=true&hide_border=false&count_private=true)
 ![jacekk024's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacekk024&theme=vue&show_icons=true&hide_border=false&layout=compact)
-</p>
+</div>
