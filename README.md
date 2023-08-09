@@ -1,6 +1,5 @@
 <h1 align="center">Hello there, I`m Jacek Kotra 👋</h1>
 
-
 ## 🙋‍♂️I'm a computer science student💻, few facts about me:
 
 - 🌱 I’m currently searching for job 
