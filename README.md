@@ -14,7 +14,7 @@
   <a href="https://www.codewars.com/users/jacekk024" target="_blank" rel="noopener noreferrer"><img src ="./images/CodeWars.svg" alt="CodeWars" width="5%" title='CodeWars'/></a>
 </div>
 
-## Tech Stack
+## 👷Tech Stack
 ### 🖥️Technologies
 
 <div>
