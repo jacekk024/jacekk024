@@ -14,7 +14,7 @@
   <a href="https://www.codewars.com/users/jacekk024" target="_blank" rel="noopener noreferrer"><img src ="./images/CodeWars.svg" alt="CodeWars" width="5%" title='CodeWars'/></a>
 </div>
 
-## 🛠Tech Stack
+## Tech Stack
 ### 🖥️Technologies
 
 <div>
@@ -25,7 +25,7 @@
     <a href="https://www.mysql.com" target="_blank"><img src ="./images/mysql.svg" alt="MySQL logo" width="7%" title='MySQL'/></a>
 </div>
 
-### 📈Tools
+### 🛠Tools
 
 <div>
     <a href="https://code.visualstudio.com/" target="_blank"><img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="7%" title='Visual Studio Code'/></a>
@@ -35,6 +35,8 @@
     <a href="https://github.com" target="_blank"><img src ="./images/github.svg" alt="Github logo" width="7%" title='Github'/></a>
 
 </div>
+
+## 📈Stats
 
 <p align="center">
 
