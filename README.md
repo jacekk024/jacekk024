@@ -1,10 +1,6 @@
 <h1 align="center">Hello there, I`m Jacek Kotra 👋</h1>
 
 
-![programmer](https://github.com/jacekk024/jacekk024/assets/45696277/69a2da3a-c581-439d-8845-0113f563856e)
-
-
-
 <p align="center">
 
 ![jacekk024's Stats](https://github-readme-stats.vercel.app/api?username=jacekk024&theme=vue&show_icons=true&hide_border=false&count_private=true)
