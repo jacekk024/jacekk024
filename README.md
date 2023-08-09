@@ -11,7 +11,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/jacek-kotra-103584249/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="5%" title='LinkedIn'/></a>
-  <a href="mailto:jacekkotra98@gmail.com" target="_blank" rel="noopener noreferrer"><img src ="./images/Gmail.svg" alt="Gmail logo" width="5%" title='Gmail'/></a>
+  <a href="mailto:jacekkotra98@gmail.com" target="_blank" rel="noopener noreferrer"><img src ="./images/Gmail_icon_(2020).svg" alt="Gmail logo" width="5%" title='Gmail'/></a>
 </div>
 
 ## 👷Tech Stack
