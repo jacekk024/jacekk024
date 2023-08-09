@@ -1,17 +1,10 @@
 <h1 align="center">Hello there, I`m Jacek Kotra 👋</h1>
 
 
-<p align="center">
-
-![jacekk024's Stats](https://github-readme-stats.vercel.app/api?username=jacekk024&theme=vue&show_icons=true&hide_border=false&count_private=true)
-![jacekk024's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacekk024&theme=vue&show_icons=true&hide_border=false&layout=compact)
-</p>
-
-
 ## 🙋‍♂️I'm a computer science student💻, few facts about me:
 
-- 🌱 I’m currently learning SQL
-- 🥅 Goals: Learn more about ASP.NET Core
+- 🌱 I’m currently searching for job 
+- 🥅 Goals: I want to learn more about Web technologies
 - ⚡ Passionate of embedded systems
 
 # 📱Contact me
@@ -20,7 +13,6 @@
   <a href="https://www.linkedin.com/in/jacek-kotra-103584249/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="5%" title='LinkedIn'/></a>
   <a href="https://www.codewars.com/users/jacekk024" target="_blank" rel="noopener noreferrer"><img src ="./images/CodeWars.svg" alt="CodeWars" width="5%" title='CodeWars'/></a>
 </div>
-
 
 ## 🛠Tech Stack
 ### 🖥️Technologies
@@ -33,7 +25,6 @@
     <a href="https://www.mysql.com" target="_blank"><img src ="./images/mysql.svg" alt="MySQL logo" width="7%" title='MySQL'/></a>
 </div>
 
-
 ### 📈Tools
 
 <div>
@@ -44,3 +35,9 @@
     <a href="https://github.com" target="_blank"><img src ="./images/github.svg" alt="Github logo" width="7%" title='Github'/></a>
 
 </div>
+
+<p align="center">
+
+![jacekk024's Stats](https://github-readme-stats.vercel.app/api?username=jacekk024&theme=vue&show_icons=true&hide_border=false&count_private=true)
+![jacekk024's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacekk024&theme=vue&show_icons=true&hide_border=false&layout=compact)
+</p>
